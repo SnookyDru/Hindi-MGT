@@ -1,5 +1,5 @@
-# Hindi-MGT
-Understanding the Challenges in Detecting Machine Generated Hindi Text
+# Understanding the Challenges in Detecting Machine Generated Hindi Text
+## Official github repo of the paper for codes and datasets
 
 Codes and datasets are in the training_models folder
 
