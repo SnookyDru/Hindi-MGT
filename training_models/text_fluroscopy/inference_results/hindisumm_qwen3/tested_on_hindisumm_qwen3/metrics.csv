@@ -1,0 +1,2 @@
+Train Dataset,Train LLM,Test Dataset,Test LLM,Accuracy,F1 Score,AUROC,AI Recall (label=0),Human Recall (label=1)
+hindisumm,qwen3,hindisumm,qwen3,0.9825,0.9827160493827161,0.9986496961816409,0.9847715736040609,0.9802955665024631

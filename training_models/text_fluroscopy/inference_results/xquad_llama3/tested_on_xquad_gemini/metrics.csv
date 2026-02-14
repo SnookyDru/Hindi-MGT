@@ -1,0 +1,2 @@
+Train Dataset,Train LLM,Test Dataset,Test LLM,Accuracy,F1 Score,AUROC,AI Recall (label=0),Human Recall (label=1)
+xquad,llama3,xquad,gemini,0.5208333333333334,0.6714285714285714,0.32161458333333337,0.0625,0.9791666666666666
